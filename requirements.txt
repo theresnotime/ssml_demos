@@ -1,4 +1,4 @@
-azure.cognitiveservices.speech==1.22.0
+azure.cognitiveservices.speech==1.24.2
 boto3==1.24.28
 google-cloud-texttospeech==2.11.1
 gruut-ipa==0.13.0
